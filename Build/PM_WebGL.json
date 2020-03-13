@@ -1,0 +1,16 @@
+{
+"companyName": "Team Z",
+"productName": "MeBehindTheMirror",
+"productVersion": "P1",
+"dataUrl": "PM_WebGL.data.unityweb",
+"wasmCodeUrl": "PM_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "PM_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
